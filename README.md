@@ -53,6 +53,6 @@ OOP Implementation of simple basket with delivery rules + discount rules.
 ### 1. Clone & Build
 
 ```bash
-git clone https://github.com/yourusername/acme-basket.git
-cd acme-basket
+git clone https://github.com/jeffreybello/widget-basket.git
+cd widget-basket
 docker-compose up -d --build
